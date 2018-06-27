@@ -1,0 +1,2 @@
+#!/bin/sh
+cp -r /mnt/c/users/Elias/PycharmProjects/microcraft/venv/src ~/microcraft
